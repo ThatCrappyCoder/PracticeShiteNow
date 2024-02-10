@@ -1,0 +1,16 @@
+[33mcommit e25bf67e0ee228c2e9831a834c4f74582be17180[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ThatCrappyCoder <thedirtbetweendiamonds@gmail.com>
+Date:   Sat Feb 10 02:09:18 2024 -0800
+
+    Super Needed Change
+
+[1mdiff --git a/git.py b/git.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d54ce25[m
+[1m--- /dev/null[m
+[1m+++ b/git.py[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mfor d in "dinosaur":[m
+[32m+[m
+[32m+[m[32m    print(d)[m
+\ No newline at end of file[m
